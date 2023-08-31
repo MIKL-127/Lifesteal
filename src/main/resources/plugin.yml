@@ -1,0 +1,4 @@
+name: Lifesteal
+version: '${project.version}'
+main: de.pixl.lifesteal.Lifesteal
+api-version: 1.19
